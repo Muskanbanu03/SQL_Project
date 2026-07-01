@@ -33,4 +33,3 @@ Follow these steps to spin up the database and review the project locally.
 
 1. **Clone this repository to your local machine:**
    ```bash
-   git clone 
