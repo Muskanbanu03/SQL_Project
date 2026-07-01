@@ -19,17 +19,3 @@ An end-to-end SQL analytics project designed to explore, clean, and extract busi
 
 * **Language:** Structured Query Language (SQL)
 * **Core Concepts:** Entity-Relationship Modeling, Joins (Inner, Left, Right), Aggregations (`COUNT`, `SUM`, `AVG`), Common Table Expressions (CTEs), Subqueries, and Data Sorting/Filtering (`GROUP BY`, `HAVING`).
-
----
-
-## 🚀 Getting Started
-
-Follow these steps to spin up the database and review the project locally.
-
-### Prerequisites
-* Any relational database management system (RDBMS) such as **MySQL Workbench**, **PostgreSQL**, or **DBeaver**.
-
-### Installation & Setup
-
-1. **Clone this repository to your local machine:**
-   ```bash
